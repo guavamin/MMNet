@@ -6,7 +6,7 @@ I forked this repository from mehrdadkhani/MMNet.
 
 There are some mistakes in the code and I made some alterations to these mistakes.
 
-This framework runs on tensorflow version 1; hence I use `import tensorflow.compat.v1 as tf` and `tf.disable_v2_behavior()` to make it run on tf.version 1.  
+This framework runs on Tensorflow version 1; hence I use `import tensorflow.compat.v1 as tf` and `tf.disable_v2_behavior()` to make it run on tf.version 1 rather than on the version 2.  
 
 I provide the supplement to the missing part "normalization" of the code.
 
